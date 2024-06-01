@@ -2,7 +2,7 @@
 
 This project is a dark-themed music player interface designed to mimic the look and feel of popular music streaming services. The interface includes navigation, library management, recently played items, trending music, featured charts, and a fixed music player at the bottom.
 
-## Example Screenshot Inclusion:
+## Screenshots:
 ![Screenshot](assets/Screenshot1.JPG)
 ![Screenshot](assets/Screenshot2.JPG)
 
